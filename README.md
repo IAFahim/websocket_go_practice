@@ -1,7 +1,1 @@
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+<img src="https://raw.githubusercontent.com/IAFahim/websocket_go_practice/master/diagram.svg">
