@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/IAFahim/websocket_go_practice/master/diagram.svg">
+<img src="https://github.com/IAFahim/websocket_go_practice/blob/master/diagram.svg" alt="Diagram.svg">
